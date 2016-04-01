@@ -1,7 +1,7 @@
 /*
 Author: Jafar Akhondali
 Release year: 2016
-Title:	Prevent copy & pasting in all browsers (including mobile browsers)
+Title:	Prevents copy & pasting in all browsers (including mobile browsers)
 Thanks to Stackoverflow users
 */
 
