@@ -11,7 +11,8 @@ Thanks to Stackoverflow users
     $.fn.blockCopy = function(options) {
 
         var settings = $.extend({
-            blockPasteClass    : null
+            blockPasteClass    : null,
+			message    : "You can't cheat !"
         }, options);
 
         if(settings.blockPasteClass){
@@ -31,7 +32,7 @@ Thanks to Stackoverflow users
 
         function clearClipboard() {
             var $temp = $("#bypasser");
-            $temp.val("You can't cheat !").select();
+            $temp.val(message).select();
             document.execCommand("copy");
         }
 
