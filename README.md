@@ -8,7 +8,17 @@ Simple Jquery plugin to prevent copying and pasting in all browsers( focused on 
 [jsfiddle]( http://jsfiddle.net/pv6r0x1a/2/ )
 
 
+
+
+
 Usage:
+
+Add it to your project:
+
+```html
+    <script src="pastepreventer.min.js"></script>
+```
+
 
 ```javascript
 
