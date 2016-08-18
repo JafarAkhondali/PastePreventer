@@ -4,7 +4,7 @@
 
 Simple Jquery plugin to prevent copying and pasting in all browsers( focused on mobile browsers )
 ----------------------------------------------------------------------------------------------------
-This plugin is based on on answers on this [SO Question]( http://stackoverflow.com/questions/32796176/prevent-user-from-copying-text-on-browsers )
+This plugin is based on answers from this [SO Question]( http://stackoverflow.com/questions/32796176/prevent-user-from-copying-text-on-browsers )
 
 
 [Demo]( http://jsfiddle.net/pv6r0x1a/2/ )
