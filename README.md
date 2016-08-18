@@ -5,7 +5,7 @@
 Simple Jquery plugin to prevent copying and pasting in all browsers( focused on mobile browsers )
 ----------------------------------------------------------------------------------------------------
 
-[jsfiddle]( http://jsfiddle.net/pv6r0x1a/2/ )
+[Demo]( http://jsfiddle.net/pv6r0x1a/2/ )
 
 
 
