@@ -1,6 +1,11 @@
-"# Paste Preventer " 
+#Paste Preventer
 =====================
 
+<p align="center">
+ 
+![xcv](https://user-images.githubusercontent.com/11364402/28755333-5f413874-756d-11e7-826a-8d0b38eb8abd.jpeg)
+
+</p>
 
 Simple Jquery plugin to prevent copying and pasting in all browsers( focused on mobile browsers )
 ----------------------------------------------------------------------------------------------------
